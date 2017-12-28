@@ -1,0 +1,6 @@
+# Ignore binary files
+authgen
+
+# Ignore object files
+*.o
+

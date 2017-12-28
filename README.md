@@ -7,4 +7,5 @@ A simple tool for Sauerbraten that generates a pair of matching authkeys.
 
 ## Credit
 This tool was found in the Remod server mod repository.
-[Remod repository](https://github.com/vasyahuyasa/remod-sauerbraten)
+
+[Remod Repository](https://github.com/vasyahuyasa/remod-sauerbraten)

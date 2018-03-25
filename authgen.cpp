@@ -33,8 +33,8 @@ void genauthkey(const char *secret, const char* name)
 {
     vector<char> privkey, pubkey;
     genprivkey(secret, privkey, pubkey);
-    printf("Private key(client):\n/authkey %s \"%s\" SD-player; saveauthkeys\n", name, privkey.getbuf());
-    printf("Public key(server):\n//adduser %s SD-player %s\n", name, pubkey.getbuf());
+    printf("Private key(client):\n/authkey %s \"%s\" SauerDuels; saveauthkeys\n", name, privkey.getbuf());
+    printf("Public key(server):\n//adduser %s SauerDuels %s\n", name, pubkey.getbuf());
 }
 
 // programm help
